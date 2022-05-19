@@ -180,7 +180,7 @@ html {
     min-height:500px;
     margin-top: 46px;
     padding-top: 50%; /* 50% cua chinh no */
-    background: url('./theband1/assets/img/slider/slider1.jpg') top center /cover no-repeat;
+    background: url('theband1/assets/img/slider/slider1.jpg') top center /cover no-repeat;
 }
 
 #slider .text-content {
